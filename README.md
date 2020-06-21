@@ -9,7 +9,7 @@ Formula :
 n = (n*2)-m
 
 Sample testcase1:
-595  explanation((((((7*2)-8)*2)-8)*2)-8)==0
+595  explanation((((((595*2)-680)*2)-680)*2)-680)==0
 
 Output:
 Completed
